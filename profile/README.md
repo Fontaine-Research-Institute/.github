@@ -1,7 +1,7 @@
 # 枫丹动能工程科学研究院 · Fontaine Research Institute
 
 <p align="center">
-  <img src="assets/organizations.png" alt="枫丹动能工程科学研究院" width="760">
+  <img src="assets/organizations.png" alt="枫丹动能工程科学研究院" width="280">
 </p>
 
 <sub>图片来源：米哈游《原神》官方素材，版权归 miHoYo / HoYoverse 所有。</sub>
