@@ -6,7 +6,7 @@
   <img src="assets/organizations.png" alt="枫丹动能工程科学研究院" width="152">
 </p>
 
-<p align="center"><sub>图片来源：米哈游《原神》官方素材，版权归 miHoYo / HoYoverse 所有。</sub></p>
+<p align="center"><sub>图片来源：米哈游《原神》官方素材，版权归 miHoYo / HoYoverse 所有。<br>Image source: official Genshin Impact artwork by HoYoverse. All rights belong to miHoYo / HoYoverse.</sub></p>
 
 
 原神粉丝组织，做一些同人研究与工具。
