@@ -1,9 +1,9 @@
 # 枫丹动能工程科学研究院 · Fontaine Research Institute
 
 <p align="center">
-  <img src="assets/banner-left.png" alt="七圣召唤" width="190">
+  <img src="assets/banner-left.png" alt="七圣召唤" width="152">
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/organizations.png" alt="枫丹动能工程科学研究院" width="190">
+  <img src="assets/organizations.png" alt="枫丹动能工程科学研究院" width="152">
 </p>
 
 <p align="center"><sub>图片来源：米哈游《原神》官方素材，版权归 miHoYo / HoYoverse 所有。</sub></p>
