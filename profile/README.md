@@ -1,8 +1,10 @@
 # 枫丹动能工程科学研究院 · Fontaine Research Institute
 
 <p align="center">
+  <img src="assets/banner-front.png" alt="七圣召唤" width="152">
+  &nbsp;&nbsp;
   <img src="assets/banner-left.png" alt="七圣召唤" width="152">
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="assets/organizations.png" alt="枫丹动能工程科学研究院" width="152">
 </p>
 
